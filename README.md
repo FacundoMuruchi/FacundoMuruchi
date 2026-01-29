@@ -1,65 +1,93 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hola, soy Facundo Muruchi</h1>
-<h3 align="center">🎓 Ingeniería Informática | 🤖 Machine Learning | 🎵 Productor Musical</h3>
+<h1 align="center">Facundo Muruchi</h1>
+
+<h3 align="center">
+Software Engineer & Artificial Intelligence · Cloud & Data
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+Buenos Aires, Argentina · 
+<a href="https://www.linkedin.com/in/facundomuruchi/">LinkedIn</a> ·
+<a href="https://main.d2n0bhq1o5o080.amplifyapp.com/">Portfolio</a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FacundoMuruchi&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+## 👋 About Me
+
+I am a **Computer Engineering student** specializing in **Artificial Intelligence, Software Development, and Cloud Computing**.  
+I hold the **AWS Machine Learning Engineer – Associate** certification and have hands-on experience building **data-driven and scalable systems** using Python, SQL, and AWS services.
+
+I am particularly interested in:
+- Machine Learning & Applied AI
+- Cloud-based architectures
+- Backend development and automation
+- Designing maintainable and scalable software systems
+
+Currently seeking my **first professional opportunity in technology**, where I can contribute, learn, and grow.
+
+## 🎓 Education
+
+**Universidad Argentina de la Empresa (UADE)**  
+**B.Sc. in Computer Engineering**  
+2024 – 2028 · Buenos Aires, Argentina
+
+## 🛠️ Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,django,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+
+<p align="center">
+  <sub>
+    Machine Learning · Data Science · Computer Vision · Cloud Computing · Automation · Relational Databases
+  </sub>
+</p>
+
+## 🧠 Certifications
+
+- **AWS Certified Machine Learning Engineer – Associate**
+- Generative AI with LLMs – DeepLearning.AI
+- Generative AI with AWS – Udacity
+- Red Hat System Administration I (RH124)
+- AI Automation – Coderhouse
+- Data Science – Coderhouse
+- SQL – Coderhouse
+- Python – Coderhouse
 
 ---
 
-<!-- ABOUT ME -->
-## 🧠 Sobre mí
+## 🚀 Selected Projects
 
-💻 Estudiante de **Ingeniería Informática**  
-🤖 Apasionado por **Machine Learning, Data Science y Cloud (AWS)**  
-🎵 Productor musical freelance bajo el nombre artístico **MERIDEZ**  
-🚀 Me gusta crear proyectos que mezclen **tecnología + creatividad**
+### 🧠 Computer Vision: Person Detection with AWS
+Automates video analysis and extracts rich metadata for each detected person, including bounding boxes, timestamps, and confidence scores.
+- Utilizes **AWS Rekognition Video** to detect and track persons frame-by-frame  
+- Processes videos stored on **Amazon S3**, leveraging fully managed ML APIs  
+- Outputs structured detection results for downstream analysis or visualization  
+- Integrated with AWS services for secure and scalable cloud deployment
 
-- 🔭 Actualmente trabajando en proyectos de **Python, ML y AWS**
-- 📚 Aprendiendo redes neuronales y arquitecturas avanzadas
-- 🎧 Producciones con +10M de visualizaciones
-- 🕹️ Gamer ocasional (sí, juego LoL 😅)
+### 🤖 HR Applicant Management Automation
+**End-to-end recruitment process automation** built with **n8n**, designed to streamline and optimize HR workflows.
+- Automated candidate intake from application forms and CV submissions  
+- AI-assisted candidate classification and prioritization  
+- Seamless data synchronization with tools such as **Notion** and spreadsheets  
+- Reduction of manual and repetitive HR tasks through event-driven automation
 
----
+## 📫 Contact
 
-<!-- TECH STACK -->
-## 🛠️ Tecnologías & Herramientas
+- 📧 Email: facundomuruchi01@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/facundomuruchi/  
+- 🌐 Portfolio: https://main.d2n0bhq1o5o080.amplifyapp.com/
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,django,flask,mysql,git,github,linux,html,css,js" />
+<i>Focused on building reliable, scalable and intelligent systems.</i>
 </p>
-
-```text
-Lenguajes: Python, JavaScript, SQL  
-ML / DS: NumPy, Pandas, Scikit-learn, Keras  
-Cloud: AWS (S3, Lambda, Rekognition, SageMaker)  
-Otros: Git, Docker, Linux
-<!-- STATS -->
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight" height="165"/> </p>
-<!-- PROJECTS -->
-🚀 Proyectos Destacados
-✨ Algunos proyectos que me representan:
-
-✈️ Sistema de gestión de vuelos (Python)
-
-🧠 Detección de fraude con ML
-
-🖼️ Clasificación de imágenes con AWS Rekognition
-
-🎶 Portfolio musical con Django
-
-👉 Fijados abajo 👇
-
-<!-- MUSIC -->
-🎵 Música
-🎹 Productor musical freelance
-🌍 Trabajo con artistas internacionales
-🔥 Más de 10 millones de reproducciones
-
-<p align="center"> <img src="https://img.shields.io/badge/Artist-MERIDEZ-purple?style=for-the-badge" /> </p>
-<!-- CONTACT -->
-🌐 Contacto
-<p align="center"> <a href="https://www.linkedin.com/in/TU_LINKEDIN/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/TU_USERNAME" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> </a> </p>
-<!-- FOOTER --> <p align="center"> 💡 <i>"Code, create, iterate."</i> </p> ```
