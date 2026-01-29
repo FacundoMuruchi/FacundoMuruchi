@@ -27,12 +27,6 @@ I am particularly interested in:
 
 Currently seeking my **first professional opportunity in technology**, where I can contribute, learn, and grow.
 
-## 🎓 Education
-
-**Universidad Argentina de la Empresa (UADE)**  
-**B.Sc. in Computer Engineering**  
-2024 – 2028 · Buenos Aires, Argentina
-
 ## 🛠️ Technical Skills
 
 <p align="center">
@@ -64,8 +58,6 @@ Currently seeking my **first professional opportunity in technology**, where I c
 - SQL – Coderhouse
 - Python – Coderhouse
 
----
-
 ## 🚀 Selected Projects
 
 ### 🧠 Computer Vision: Person Detection with AWS
@@ -87,7 +79,3 @@ Automates video analysis and extracts rich metadata for each detected person, in
 - 📧 Email: facundomuruchi01@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/facundomuruchi/  
 - 🌐 Portfolio: https://main.d2n0bhq1o5o080.amplifyapp.com/
-
-<p align="center">
-<i>Focused on building reliable, scalable and intelligent systems.</i>
-</p>
